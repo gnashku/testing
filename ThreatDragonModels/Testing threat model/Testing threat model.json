@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Testing threat model",
+    "owner": "nash",
+    "description": "this will start with something"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "dragon 1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "myslef"
+  }
+}
