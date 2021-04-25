@@ -9,3 +9,6 @@ Failed error :
 
 org.hibernate.exception.SQLGrammarException: could not extract ResultSet
  java.sql.SQLSyntaxErrorException: Unknown column 'users0_.username' in 'field list'
+
+
+This will be updated with new JSP information
