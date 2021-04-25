@@ -1,0 +1,11 @@
+Database Schmea:Sql_hr
+Tables used: employees (for website and restapi),users(authentication)
+you can create different schema and users to run this code
+Web(Successfull): able to get a  webpage runing with list of all employess as well as a functioning API(CRUD)
+JPA(Partial Success): was able to use employee database to connect to database to fetch information for Web
+Security(Failed): use user database to perform form authentication(Inmemory authentication is working)
+Failed error :
+
+
+org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+ java.sql.SQLSyntaxErrorException: Unknown column 'users0_.username' in 'field list'
